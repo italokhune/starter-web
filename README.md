@@ -8,4 +8,4 @@ Aggiunta modifica testo introduzione
 
 ## Scopo
 
-Sample website with plenty of files for demos
+Descritto lo scopo in italiano
